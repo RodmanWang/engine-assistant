@@ -1,7 +1,7 @@
 {
   "name": "engine-assistant",
-  "version": "1.0.3",
-  "description": "智能微秘书Engine 1.0.3",
+  "version": "1.0.4",
+  "description": "智能微秘书Engine 1.0.4",
   "main": "index.js",
   "type": "module",
   "scripts": {
