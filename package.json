@@ -1,7 +1,7 @@
 {
   "name": "engine-assistant",
-  "version": "1.0.5",
-  "description": "智能微秘书Engine 1.0.5",
+  "version": "1.0.6",
+  "description": "智能微秘书Engine 1.0.6",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -32,8 +32,8 @@
   "dependencies": {
     "wechaty": "^1.20.2",
     "wechaty-puppet": "^1.21.1",
-    "wechaty-puppet-engine": "^1.0.20",
-    "wechaty-web-panel": "^1.6.6"
+    "wechaty-puppet-engine": "^1.0.24",
+    "wechaty-web-panel": "^1.6.19"
   },
   "repository": {
     "type": "git",
