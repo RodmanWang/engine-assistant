@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "pm2": "pm2 start index.js"
   },
   "author": "Leo_chen",
   "license": "MIT",
@@ -33,7 +34,8 @@
     "wechaty": "^1.20.2",
     "wechaty-puppet": "^1.21.1",
     "wechaty-puppet-engine": "^1.0.24",
-    "wechaty-web-panel": "^1.6.19"
+    "wechaty-web-panel": "^1.6.19",
+    "pm2": "^4.2.3"
   },
   "repository": {
     "type": "git",
