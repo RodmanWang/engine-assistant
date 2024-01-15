@@ -34,7 +34,7 @@
     "wechaty": "^1.20.2",
     "wechaty-puppet": "^1.21.1",
     "wechaty-puppet-engine": "^1.0.25",
-    "wechaty-web-panel": "^1.6.34",
+    "wechaty-web-panel": "^1.6.35",
     "pm2": "^4.2.3"
   },
   "repository": {
