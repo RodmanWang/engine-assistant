@@ -33,8 +33,8 @@
   "dependencies": {
     "wechaty": "^1.20.2",
     "wechaty-puppet": "^1.21.1",
-    "wechaty-puppet-engine": "^1.0.26",
-    "wechaty-web-panel": "^1.6.41",
+    "wechaty-puppet-engine": "^1.0.27",
+    "wechaty-web-panel": "^1.6.42",
     "pm2": "^4.2.3"
   },
   "repository": {
